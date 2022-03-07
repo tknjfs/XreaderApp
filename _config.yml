@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: [Xreader App]
 logo: /assets/img/logo.png
 show_github: [false]
-description: [A short description of your site's purpose]
+description: [View in AppStore [GitHub Pages](https://pages.github.com/)](https://pages.github.com/)
 github:
   zip_url: http://example.com/download.zip
   another_url: another value
