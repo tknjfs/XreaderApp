@@ -1,2 +1,2 @@
 # Xreader app
-![image](/assets/images/your-image.jpg)
+![image](/assets/images/logo.png)
