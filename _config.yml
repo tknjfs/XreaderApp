@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: [Xreader App]
 logo: /assets/img/logo.png
 show_github: [false]
-description: [Xreader allows you stay tuned for latest articles, tutorials, news, updates, podcasts, youtube videos and twitch streams related to Swift development.](https://pages.github.com/)
+description: [Xreader allows you stay tuned for latest articles, tutorials, news, updates, podcasts, youtube videos and twitch streams related to Swift development.]
 github:
   zip_url: http://example.com/download.zip
   another_url: another value
